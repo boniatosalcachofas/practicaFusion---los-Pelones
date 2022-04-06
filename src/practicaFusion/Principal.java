@@ -17,7 +17,7 @@ public class Principal {
 
 		perro.MandarMensaje();
 
-	pez.MandarMensaje();
+	pez.MandarMensaje(); 
 
 
 
