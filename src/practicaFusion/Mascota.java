@@ -2,7 +2,6 @@ package practicaFusion;
 
 public class Mascota {
 	private String nombre;
-	private String colorPelaje;
 
 	public Mascota(String nombre) {
 		this.nombre = nombre;
