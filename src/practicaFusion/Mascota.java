@@ -18,7 +18,7 @@ public class Mascota {
 	}
 
 	public void MandarMensaje() {
-		System.out.println("Soy anton y te voy a contar algo o no. tengo " + this.anyoNacimiento + " anyos");
+		System.out.println("Soy " + this.nombre + " y te voy a contar algo o no. tengo " + this.anyoNacimiento + " anyos");
 	}
 
 }
